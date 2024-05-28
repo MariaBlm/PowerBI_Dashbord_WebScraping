@@ -7,7 +7,7 @@ In this project we have :
   -Dash1 obtained using the csv data 
   -Dash2 obtained using Excel files 
 
-*A web scraping for bitcoins website using Python ! 
+*A web scraping code with python for bitcoins website  ! 
 
 
   
